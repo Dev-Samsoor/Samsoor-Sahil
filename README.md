@@ -1,3 +1,4 @@
 # Samsoor-Sahil
 this is my first repository.
-Author : Samsoor Sahil
+<br>
+Author - Samsoor Sahil
